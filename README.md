@@ -20,7 +20,7 @@ satisfied.
 
 *   A source code repository
 
-#### Parameters
+#### Parameters 
 
 To run this editor, you must supply the following parameters.
 
